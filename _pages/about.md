@@ -24,4 +24,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I'm a first-year <a href="https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html" style="font-weight: 400">Master of Language Technologies</a> (MLT) student at the <a href="https://www.lti.cs.cmu.edu/index.html" style="font-weight: 400">Language Technologies Institute</a>, School of Computer Science at Carnegie Mellon University. I'm fortunate to be advised by Professor Carolyn Rosé. 
+I'm a first-year <a href="https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html" style="font-weight: 400">Master of Language Technologies</a> (MLT) student at the <a href="https://www.lti.cs.cmu.edu/index.html" style="font-weight: 400">Language Technologies Institute</a>, School of Computer Science at Carnegie Mellon University. I'm fortunate to be advised by Professor Carolyn Rosé.

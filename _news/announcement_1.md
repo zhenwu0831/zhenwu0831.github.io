@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-First day as an MLT student at CMU! 
+First day as an MLT student at CMU!
