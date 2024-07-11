@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-08-28
+date: 2024-06-27
 inline: true
 related_posts: false
 ---
 
-First day as an MLT student at CMU! 
+Invited talk @ Disney Research Group.

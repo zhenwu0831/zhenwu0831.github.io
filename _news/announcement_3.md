@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-06-17
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Paper about <span style="color: green;">evaluating LLMs on sensitivity to language framing to elicit role-oriented social behaviors</span> accepted to HuLLM workshop @ ACL.
