@@ -13,7 +13,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
   more_info: >
-      <p>zhenwu@cs.cmu.edu</p>
+    <p>zhenwu@cs.cmu.edu</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -28,6 +28,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Welcome to my website! :smile:
 
-I'm a first-year <a href="https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html">Master of Language Technologies</a> (MLT) student at the <a href="https://www.lti.cs.cmu.edu/index.html">Language Technologies Institute</a>, School of Computer Science at Carnegie Mellon University. I'm fortunate to be advised by Professor <a href="https://www.cs.cmu.edu/~cprose/">Carolyn Rosé</a>. 
+I'm a first-year <a href="https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html">Master of Language Technologies</a> (MLT) student at the <a href="https://www.lti.cs.cmu.edu/index.html">Language Technologies Institute</a>, School of Computer Science at Carnegie Mellon University. I'm fortunate to be advised by Professor <a href="https://www.cs.cmu.edu/~cprose/">Carolyn Rosé</a>.
 
-I'm excited to develop <a style="font-weight: 400; color: green">generalizable and interpretable</a> models. Specifically, I'm very interested in <a style="font-weight: 300; color: green">language model reasoning</a> and their applications in interpersonal communications, typically through the lens of <a style="font-weight: 300; color: green">pragmatics</a> and <a style="font-weight: 300; color: green">interpretability</a> methods. 
+I'm excited to develop <a style="font-weight: 400; color: green">generalizable and interpretable</a> models. Specifically, I'm very interested in <a style="font-weight: 300; color: green">language model reasoning</a> and their applications in interpersonal communications, typically through the lens of <a style="font-weight: 300; color: green">pragmatics</a> and <a style="font-weight: 300; color: green">interpretability</a> methods.
