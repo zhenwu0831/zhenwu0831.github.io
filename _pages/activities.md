@@ -2,11 +2,8 @@
 layout: page
 permalink: /activities/
 title: activities
-description: Materials for courses you taught. Replace this text with your description.
-nav: true
+nav: false
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+In my spare time, I love to be accompanied by music. Fun fact about me: I was trained as a professional singer (similar to Bel canto). I also play flute, the <a href="https://en.wikipedia.org/wiki/Hulusi">cucurbit flute</a>, and piano for fun. Sometimes I also read mysteries and watch classical concerts.
