@@ -29,14 +29,16 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Welcome to my website! :-)
 
-I'm a first-year <a href="https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html">Master of Language Technologies</a> (MLT) student at the <a href="https://www.lti.cs.cmu.edu/index.html">Language Technologies Institute</a>, School of Computer Science at Carnegie Mellon University. I'm fortunate to be advised by Professor <a href="https://www.cs.cmu.edu/~cprose/">Carolyn Rosé</a>.
+I'm a first-year [Master of Language Technologies](https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html) (MLT) student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/index.html), School of Computer Science at Carnegie Mellon University. I'm fortunate to be advised by Professor [Carolyn Rosé](https://www.cs.cmu.edu/~cprose/).
 
-I'm excited to develop <a style="font-weight: 400; color: green">generalizable and interpretable</a> models. Specifically, I'm very interested in <a style="font-weight: 300; color: green">language model reasoning</a> and their applications in interpersonal communications, typically through the lens of <a style="font-weight: 300; color: green">pragmatics</a> and <a style="font-weight: 300; color: green">interpretability</a> methods.
+I'm excited to develop <u><b>generalizable</b></u> and <u><b>interpretable</b></u> models. Specifically, I'm very interested in
 
-📚 From the language perspective, I want to
-
-🔬
+<ol class="important-points">
+<li>Language models + reasoning and its applications in conversational settings.</li>
+<li>Understanding and controlling language model behaviors through their inner workings using interpretability methods.</li>
+</ol>
 
 Previously, I obtained my B.S. degree in Computer Science and Mathematics with Honors from the University of Pittsburgh.
 
-Fun fact about me: I was trained as a professional singer (similar to Bel canto). I also play flute, the <a href="https://en.wikipedia.org/wiki/Hulusi">cucurbit flute</a>, and piano for fun. Sometimes I also read mysteries and watch classical concerts.
+Fun fact about me: I was trained as a professional singer (similar to Bel canto). I also play flute, the [cucurbit flute](https://en.wikipedia.org/wiki/Hulusi), and piano for fun. Sometimes I also read mysteries and watch classical concerts.
+<br><br>

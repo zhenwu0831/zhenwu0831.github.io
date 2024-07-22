@@ -232,6 +232,17 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.important-points {
+  // background-color: #f9f9a5; /* light yellow */
+  padding: 10px;
+  border-radius: 5px;
+  margin-left: 20px;
+}
+.important-points li {
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
 // Navbar customization
 
 .navbar {
@@ -1140,7 +1151,7 @@ ninja-keys::part(ninja-input-wrapper) {
 
 // newsletter
 .newsletter-form-container {
-  margin-bottom: 20px;
+  margin-bottom: 120px;
 }
 
 .newsletter-form {
