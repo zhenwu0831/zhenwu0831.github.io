@@ -14,7 +14,7 @@ profile:
   #   <p>Your City, State 12345</p>
   more_info: >
     <p>zhenwu@cs.cmu.edu</p><br>
-    <p><a href="https://www.linkedin.com/in/zhen-wu-3080161b8/">LinkedIn</a> / CV </p>
+    <p><a href="https://www.linkedin.com/in/zhen-wu-3080161b8/">LinkedIn</a> / <a href="https://drive.google.com/file/d/1tmJIRDMjh11PO8hHU2f0Y3MhsjDT-tHb/view?usp=sharing">CV</a> </p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -29,7 +29,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Welcome to my website! :-)
 
-I'm a first-year [Master of Language Technologies](https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html) (MLT) student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/index.html), School of Computer Science at Carnegie Mellon University. I'm fortunate to be advised by Professor [Carolyn Rosé](https://www.cs.cmu.edu/~cprose/).
+I'm an incoming PhD and second-year [Master of Language Technologies](https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html) (MLT) student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/index.html), School of Computer Science at Carnegie Mellon University. I'm fortunate to be advised by Professor [Carolyn Rosé](https://www.cs.cmu.edu/~cprose/).
 
 I'm excited to develop <u><b>generalizable</b></u> and <u><b>interpretable</b></u> models. Specifically, I'm very interested in
 

@@ -1,7 +1,7 @@
 ---
 ---
 
-@misc{dutt2024leveragingmachinegeneratedrationalesfacilitate,
+@inproceedings{dutt2024leveragingmachinegeneratedrationalesfacilitate,
       bibtex_show={true},
       title={Leveraging Machine-Generated Rationales to Facilitate Social Meaning Detection in Conversations}, 
       author={Ritam Dutt and Zhen Wu and Kelly Shi and Divyanshu Sheth and Prakhar Gupta and Carolyn Penstein Rose},
@@ -9,7 +9,40 @@
       eprint={2406.19545},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      html={https://arxiv.org/abs/2406.19545}, 
+      html={https://aclanthology.org/2024.acl-long.373/}, 
       abbr={ACL},
       abstract={We present a generalizable classification approach that leverages Large Language Models (LLMs) to facilitate the detection of implicitly encoded social meaning in conversations. We design a multi-faceted prompt to extract a textual explanation of the reasoning that connects visible cues to underlying social meanings. These extracted explanations or rationales serve as augmentations to the conversational text to facilitate dialogue understanding and transfer. Our empirical results over 2,340 experimental settings demonstrate the significant positive impact of adding these rationales. Our findings hold true for in-domain classification, zero-shot, and few-shot domain transfer for two different social meaning detection tasks, each spanning two different corpora.}
+}
+
+@inproceedings{wuhucllm,
+      bibtex_show={true},
+    title = "Evaluating Large Language Models on Social Signal Sensitivity: An Appraisal Theory Approach",
+    author = "Wu, Zhen  and
+      Dutt, Ritam  and
+      Rosé, Carolyn",
+    booktitle = "Proc. of the 1st Human-Centered Large Language Modeling Workshop at ACL",
+    year = "2024",
+    html={https://aclanthology.org/2024.hucllm-1.6/},
+    abbr={HuCLLM, ACL},
+    abstract={We present a framework to assess the sensitivity of Large Language Models (LLMs) to textually embedded social signals using an Appraisal Theory perspective. We report on an experiment that uses prompts encoding three dimensions of social signals: Affect, Judgment, and Appreciation. In response to the prompt, an LLM generates both an analysis (Insight) and a conversational Response, which are analyzed in terms of sensitivity to the signals. We quantitatively evaluate the output text through topical analysis of the Insight and predicted social intelligence scores of the Response in terms of empathy and emotional polarity. Key findings show that LLMs are more sensitive to positive signals. The personas impact Responses but not the Insight. We discuss how our framework can be extended to a broader set of social signals, personas, and scenarios to evaluate LLM behaviors under various conditions.}
+}
+
+@unpublished{wu2025r2cod,
+      bibtex_show = {true},
+  title     = {R²-CoD: Understanding Text-Graph Complementarity in Relational Reasoning via Knowledge Co-Distillation},
+  author    = {Zhen Wu and Ritam Dutt and Armineh Nourbakhsh and Luke M. Breitfeller and Siddharth Parekh and Carolyn Rosé},
+  note      = {Under submission to the Conference on Language Modeling (COLM)},
+  year      = {2025},
+  html       = {https://openreview.net/pdf?id=DMcB3Pxgjh},
+  abstract={Relational reasoning lies at the core of many NLP tasks, often drawing on complementary signals from text and graphs. While this complementarity has been leveraged for many research objectives, the field lacks a detailed and systematic understanding of text-graph interplay and its effect on hybrid models. In this work, we take an analysis-driven approach to investigate text–graph representation complementarity via a unified architecture that supports knowledge co-distillation (CoD). We study five tasks involving relational reasoning that each differs in how text and graph structures encode and support the respective task objectives. By tracking how text and graph-based representations evolve over training epochs, we uncover interpretable patterns of alignment and divergence, and provide insights into when and why their integration through CoD is most beneficial.}
+}
+
+@unpublished{wu2025kbqa,
+bibtex_show = {true},
+  title     = {Can KBQA Models Predict Their Reasoning Paths? Isomorphism Prediction Task as a Proxy},
+  author    = {Zhen Wu and Ritam Dutt and Dhruv Gupta and Carolyn Rosé},
+  note      = {Under submission to ACL},
+  year      = {2025},
+  html       = {https://openreview.net/pdf?id=jbgWxtJ1tt},
+  abstract={Despite achieving correct answers, we find that existing Knowledge Base Question Answering (KBQA) models struggle to follow the expected reasoning structures. We introduce the task of isomorphism prediction to enhance reasoning fidelity beyond answer generation, with a focus on generalization. We propose a contrastive knowledge co-distillation framework that unifies textual and graphical KBQA paradigms, improving overall isomorphism prediction and model generalization. Furthermore, incorporating isomorphism prediction as an auxiliary task also improves KBQA performance.}
 }
