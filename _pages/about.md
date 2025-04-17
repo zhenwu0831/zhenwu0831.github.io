@@ -14,7 +14,7 @@ profile:
   #   <p>Your City, State 12345</p>
   more_info: >
     <p>zhenwu@cs.cmu.edu</p><br>
-    <p><a href="https://www.linkedin.com/in/zhen-wu-3080161b8/">LinkedIn</a> / <a href="https://drive.google.com/file/d/1tmJIRDMjh11PO8hHU2f0Y3MhsjDT-tHb/view?usp=sharing">CV</a> </p>
+    <p><a href="https://www.linkedin.com/in/zhen-wu-3080161b8/">LinkedIn</a> / <a href="https://drive.google.com/file/d/1WOQy-JCc6roDxS8iZil6WfCSqFz-6Vvn/view?usp=sharing">CV</a> </p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
