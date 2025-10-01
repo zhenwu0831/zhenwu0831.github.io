@@ -1150,6 +1150,11 @@ ninja-keys::part(ninja-input-wrapper) {
 }
 
 // newsletter
+.news .table-responsive {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
 .newsletter-form-container {
   margin-bottom: 120px;
 }

@@ -1,8 +1,8 @@
 ---
 layout: announcement
-date: 2023-08-28
+date: 2025-08-25
 inline: true
 related_posts: false
 ---
 
-First day as an MLT student at CMU LTI!
+First day as a PhD student at CMU LTI!

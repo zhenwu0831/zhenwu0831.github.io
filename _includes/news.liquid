@@ -3,18 +3,14 @@
     {% assign news_size = site.news | size %}
     <div
       class="table-responsive"
-      {% if include.limit and site.announcements.scrollable and news_size > 3 %}
-        style="max-height: 60vw"
+      {% if site.announcements.scrollable and news_size > 3 %}
+        style="max-height: 200px; overflow-y: auto;"
       {% endif %}
     >
       <table class="table table-sm table-borderless">
-        {% assign news = site.news | reverse %}
-        {% if include.limit and site.announcements.limit %}
-          {% assign news_limit = site.announcements.limit %}
-        {% else %}
-          {% assign news_limit = news_size %}
-        {% endif %}
-        {% for item in news limit: news_limit %}
+        {% assign news = site.news | sort: "date" | reverse %}
+        {% assign news_limit = site.announcements.limit | default: news_size | plus: 0 %}
+        {% for item in news limit: %}
           <tr>
             <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
             <td>

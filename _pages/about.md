@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: grad_profile.jpeg
   image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -14,7 +14,9 @@ profile:
   #   <p>Your City, State 12345</p>
   more_info: >
     <p>zhenwu@cs.cmu.edu</p><br>
-    <p><a href="https://www.linkedin.com/in/zhen-wu-3080161b8/">LinkedIn</a> / <a href="https://drive.google.com/file/d/1WOQy-JCc6roDxS8iZil6WfCSqFz-6Vvn/view?usp=sharing">CV</a> </p>
+    <p>Office: GHC 6717</p><br>
+    <p><a href="https://www.linkedin.com/in/zhen-wu-3080161b8/">LinkedIn</a> / <a href="https://drive.google.com/file/d/1sFrqhqv5gOMbjTmLgYuIBsixdmCTARp9/view?usp=sharing">CV</a> </p>
+    <br><br><br>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -29,13 +31,16 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Welcome to my website! :-)
 
-I'm an incoming PhD and second-year [Master of Language Technologies](https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html) (MLT) student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/index.html), School of Computer Science at Carnegie Mellon University. I'm fortunate to be advised by Professor [Carolyn Rosé](https://www.cs.cmu.edu/~cprose/).
+I'm a PhD student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/index.html), School of Computer Science at Carnegie Mellon University. I'm fortunate to be advised by Professor [Carolyn Rosé](https://www.cs.cmu.edu/~cprose/).
 
-I'm excited to develop <u><b>generalizable</b></u> and <u><b>interpretable</b></u> models. Specifically, I'm very interested in
+My research agenda is driven by a core question: 
+<b><i>How can we understand, guide, and evaluate model reasoning behaviors?</i></b>
 
 <ol class="important-points">
-<li>Language models + reasoning and its applications in conversational settings.</li>
-<li>Understanding and controlling language model behaviors through their inner workings using interpretability methods.</li>
+<li>Understanding how models encode information in the latent space.</li>
+<li>Analyzing failure modes to uncover why model behaviors diverge from expectations.</li>
+<li>Developing methods to steer model behaviors toward better alignment and transparency.</li>
+<li>Designing evaluation frameworks that provide fine-grained insights into model reasoning processes.</li>
 </ol>
 
 Previously, I obtained my B.S. degree in Computer Science and Mathematics with Honors from the University of Pittsburgh.
