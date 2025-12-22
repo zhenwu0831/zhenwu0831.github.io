@@ -182,13 +182,28 @@
       {{ entry.note | strip }}
     </div>
 
+  {% if entry.award %}
+    <div
+      style="
+        margin-top: 0.6rem;
+        display: inline-block;
+        padding: 0.25rem 0.6rem;
+        font-size: 0.9rem;
+        font-weight: 800;
+        color: #1b5e20;
+        background: #e8f5e9;
+        border: 1px solid #c8e6c9;
+        border-radius: 0.5rem;
+      "
+    >
+      🏆 {{ entry.award }}
+    </div>
+  {% endif %}
+
+
+
     <!-- Links/Buttons -->
     <div class="links">
-      {% if entry.award %}
-        <a class="award btn btn-sm z-depth-0" role="button">
-          {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awareded{% endif -%}
-        </a>
-      {% endif %}
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {% endif %}
@@ -317,13 +332,6 @@
           {% endif %}
         </div>
       {% endif %}
-    {% endif %}
-
-    {% if entry.award %}
-      <!-- Hidden Award block -->
-      <div class="award hidden d-print-inline">
-        <p>{{ entry.award | markdownify }}</p>
-      </div>
     {% endif %}
 
     {% if entry.abstract %}

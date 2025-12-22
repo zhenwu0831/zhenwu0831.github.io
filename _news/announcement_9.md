@@ -1,8 +1,8 @@
 ---
 layout: announcement
-date: 2025-10-25
+date: 2025-12-22
 inline: true
 related_posts: false
 ---
 
-Paper about <a href="https://arxiv.org/abs/2508.01475" style="color: green;"> understanding text-graph representational complementarity in relational reasoning</a> accepted to IJCNLP-AACL!
+Our IJCNLP-AACL paper: <a href="https://arxiv.org/abs/2508.01475" style="color: green;"> R²-CoD: Understanding Text-Graph Complementarity in Relational Reasoning via Knowledge Co-Distillation </a> won the 🏆 **Outstanding Paper Award**!

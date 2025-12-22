@@ -36,6 +36,7 @@
       primaryClass={cs.AI},
       html={https://arxiv.org/abs/2508.01475}, 
       abbr={IJCNLP-AACL},
+      award= {Outstanding Paper Award},
       abstract={Relational reasoning lies at the core of many NLP tasks, often drawing on complementary signals from text and graphs. While this complementarity has been leveraged for many research objectives, the field lacks a detailed and systematic understanding of text-graph interplay and its effect on hybrid models. In this work, we take an analysis-driven approach to investigate text–graph representation complementarity via a unified architecture that supports knowledge co-distillation (CoD). We study five tasks involving relational reasoning that each differs in how text and graph structures encode and support the respective task objectives. By tracking how text and graph-based representations evolve over training epochs, we uncover interpretable patterns of alignment and divergence, and provide insights into when and why their integration through CoD is most beneficial.}
 }
 
@@ -49,15 +50,6 @@
       primaryClass={cs.CL},
       html={https://arxiv.org/abs/2509.21499}, 
       abstract={Code data has been shown to enhance the reasoning capabilities of large language models (LLMs), but it remains unclear which aspects of code are most responsible. We investigate this question with a systematic, data-centric framework. We construct parallel instruction datasets in ten programming languages and apply controlled perturbations that selectively disrupt structural or semantic properties of code. We then finetune LLMs from five model families and eight scales on each variant and evaluate their performance on natural language, math, and code tasks. Across 3,331 experiments, our results show that LLMs are more vulnerable to structural perturbations than semantic ones, particularly on math and code tasks. Appropriate abstractions like pseudocode and flowcharts can be as effective as code, while encoding the same information with fewer tokens without adhering to original syntax can often retain or even improve performance. Remarkably, even corrupted code with misleading signals remains competitive when surface-level regularities persist. Finally, syntactic styles also shape task-specific gains with Python favoring natural language reasoning and lower-level languages such as Java and Rust favoring math. Through our systematic framework, we aim to provide insight into how different properties of code influence reasoning and inform the design of training data for enhancing LLM reasoning capabilities.}
-}
-
-@unpublished{wu2025kbqa,
-  title     = {Can KBQA Models Predict Their Reasoning Paths? Isomorphism Prediction Task as a Proxy},
-  author    = {Zhen Wu and Ritam Dutt and Dhruv Gupta and Carolyn Rosé},
-  note      = {Manuscript, larger-scale version in progress},
-  year      = {2025},
-  html       = {https://openreview.net/pdf?id=jbgWxtJ1tt},
-  abstract  = {Despite achieving correct answers, we find that existing Knowledge Base Question Answering (KBQA) models struggle to follow the expected reasoning structures. We introduce the task of isomorphism prediction to enhance reasoning fidelity beyond answer generation, with a focus on generalization. We propose a contrastive knowledge co-distillation framework that unifies textual and graphical KBQA paradigms, improving overall isomorphism prediction and model generalization. Furthermore, incorporating isomorphism prediction as an auxiliary task also improves KBQA performance.}
 }
 
 @misc{waheed2025videojudgebootstrappingenablesscalable,

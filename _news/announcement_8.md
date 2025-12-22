@@ -1,8 +1,8 @@
 ---
 layout: announcement
-date: 2025-09-22
+date: 2025-10-25
 inline: true
 related_posts: false
 ---
 
-Ongoing work with high school students I mentor on <span style="color: green;"> mitigating LLM over-refusal with fine-grained refusal tokens</span> has been accepted to the NeurIPS 2025 Mechanistic Interpretability Workshop (≈300 submissions)!
+Paper about <a href="https://arxiv.org/abs/2508.01475" style="color: green;"> understanding text-graph representational complementarity in relational reasoning</a> accepted to IJCNLP-AACL!
