@@ -15,7 +15,7 @@ profile:
   more_info: >
     <p>zhenwu@cs.cmu.edu</p><br>
     <p>Office: GHC 6717</p><br>
-    <p><a href="https://www.linkedin.com/in/zhen-wu-3080161b8/">LinkedIn</a> / <a href="https://drive.google.com/file/d/1BHCuzHo4O1_gsAnwYR1tL3YRwv55Mfxh/view?usp=sharing">CV</a> / <a href="https://x.com/ZhenWu66231">X</a> </p>
+    <p><a href="https://www.linkedin.com/in/zhen-wu-3080161b8/">LinkedIn</a> / <a href="https://drive.google.com/file/d/15fDIDK-m4oe7HuLmWniHpfPde_8-hD2p/view?usp=sharing">CV</a> / <a href="https://x.com/ZhenWu66231">X</a> </p>
     <br><br><br>
 
 news: true # includes a list of news items
